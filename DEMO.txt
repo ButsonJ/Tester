@@ -1,0 +1,2 @@
+This could be anyting even a java file or PDF it does not matter git will take it
+.
